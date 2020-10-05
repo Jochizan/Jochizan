@@ -1,4 +1,4 @@
-### Hi, I'm Joan 😄😄😄👋👋👋
+## Hi, I'm Joan 😄😄😄👋👋👋
 
 ![definitivo](https://user-images.githubusercontent.com/69653003/95114553-bc4a0600-0709-11eb-8204-5907e1823e60.png)
 
@@ -19,6 +19,7 @@ You can find me 🌎:
 
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼  
 Here are some ideas to get you started:
+
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 
 
 - 🔭 I’m currently working on nothing :c
@@ -30,4 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have 5 months in programming. 😄
 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 
 
-## Yana
+### Yana
