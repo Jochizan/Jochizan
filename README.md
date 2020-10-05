@@ -18,6 +18,7 @@ You can find me 🌎:
 - [Facebook](https://web.facebook.com/joan.roca.79)
 
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼  
+
 Here are some ideas to get you started:
 
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about cplusplus and Java
 - 😄 Pronouns: Jochi
 - ⚡ Fun fact: I have 5 months in programming. 😄
+
 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 
 
 ### Yana
