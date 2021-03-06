@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about cplusplus and Java
 - 😄 Pronouns: Jochi
-- ⚡ Fun fact: I have 5 months in programming. 😄
+- ⚡ Fun fact: I have 8 months in programming. 😄
 
 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 
 
