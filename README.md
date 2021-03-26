@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Jochizan
 - ⚡ Fun fact: I have 8 months in programming. 😄
 
-💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯  
+💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯  
 
 ### Yana
