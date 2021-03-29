@@ -1,6 +1,7 @@
 ## Hi, I'm Joan 😄😄😄👋👋👋
 
-![definitivo](https://user-images.githubusercontent.com/69653003/95114553-bc4a0600-0709-11eb-8204-5907e1823e60.png)
+![photo_fb](https://user-images.githubusercontent.com/69653003/112893349-2bdcf480-90a0-11eb-996e-89f6c7254ab5.jpg)
+
 
 <!--
 ```java
