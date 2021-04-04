@@ -13,14 +13,14 @@ const jn {
 ```
 -->
 
-### You can find me 🌎:
+### Puedes encontrarme 🌎:
 - [Twitter](https://twitter.com/@Jochizan)
 - [Instagram](https://www.instagram.com/joan_lanra/)
 - [Linkedin](https://www.linkedin.com/in/joan-jos%C3%A9-roca-hormaza-9a8b861b7/)
 
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼  
 
-### Here are some ideas to get you started:
+### Aquí hay algunos datos de mi:
 
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 
 
