@@ -1,7 +1,6 @@
-## Hi, I'm Joan 😄😄😄👋👋👋
+## Hola, mi nombre es Joan 😄 🖐️🖐️🖐️
 
 ![photo_fb](https://user-images.githubusercontent.com/69653003/112893349-2bdcf480-90a0-11eb-996e-89f6c7254ab5.jpg)
-
 
 <!--
 ```java
@@ -13,25 +12,26 @@ const jn {
   tools: ['React', 'Redux', 'Node', 'Styled-Components']
 ```
 -->
-You can find me 🌎:
-- [Twitter](https://twitter.com/@Joan31097314)
+
+### You can find me 🌎:
+- [Twitter](https://twitter.com/@Jochizan)
 - [Instagram](https://www.instagram.com/joan_lanra/)
-- [Facebook](https://web.facebook.com/joan.roca.79)
+- [Linkedin](https://www.linkedin.com/in/joan-jos%C3%A9-roca-hormaza-9a8b861b7/)
 
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼  
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 
 
-- 🔭 I’m currently working on nothing :c
-- 🌱 I’m currently learning Web development
-- 👯 I’m looking to collaborate on anyone who is starting in programming 
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about cplusplus, Java and ♥️ JavaScript
-- 😄 Pronouns: Jochizan
-- ⚡ Fun fact: I have 8 months in programming. 😄
+- 🔭 Actualmente estoy trabajando en mi portafolio y una aplicación web de vuelos.
+- 🌱 Actualmente sigo aprendiendo del desarrollo interfaces de usuario con React.js.
+- 👯 Busco colaborar con cualquier persona que se esté iniciando en la programación.
+- 🤔 Estoy buscando ayuda de colaboradores para el proyecto de vuelos.
+- 💬 Pregúntame sobre react, tecnologías frontend y 💖 JavaScript 💙
+- 😄 Pronombres: Jochizan, Jochi, Joan
+- ⚡ Dato curioso: llevo 5 meses en el desarrollo web.
 
 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯  
 
-### Yana
+## Yana
