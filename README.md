@@ -24,10 +24,10 @@ const jn {
 
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 
 
-- 🔭 Actualmente estoy trabajando en mi portafolio y una aplicación web de vuelos.
+- 🔭 Actualmente estoy trabajando en mi portafolio y realizando unas pruebas de desarrollo.
 - 🌱 Actualmente sigo aprendiendo del desarrollo interfaces de usuario con React.js.
 - 👯 Busco colaborar con cualquier persona que se esté iniciando en la programación.
-- 🤔 Estoy buscando ayuda de colaboradores para el proyecto de vuelos.
+- 🤔 Estoy buscando ayuda de colaboradores para los proyectos en los que trabajo.
 - 💬 Pregúntame sobre react, tecnologías frontend y 💖 JavaScript 💙
 - 😄 Pronombres: Jochizan, Jochi, Joan
 - ⚡ Dato curioso: llevo 5 meses en el desarrollo web.
