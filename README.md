@@ -30,7 +30,7 @@ const jn {
 - 🤔 Estoy buscando ayuda de colaboradores para los proyectos en los que trabajo.
 - 💬 Pregúntame sobre react, tecnologías frontend y 💖 JavaScript 💙
 - 😄 Pronombres: Jochizan, Jochi, Joan
-- ⚡ Dato curioso: llevo 5 meses en el desarrollo web.
+- ⚡ Dato curioso: llevo 7 meses en el desarrollo web.
 
 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯  
 
