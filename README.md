@@ -4,7 +4,7 @@
 
 ## Skills
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan)](https://github.com/Jochizan/github-readme-stats)
 
 ## Puedes encontrarme 🌎:
 - [Twitter](https://twitter.com/@Jochizan)
@@ -23,6 +23,6 @@
 - 🤔 Estoy buscando ayuda de colaboradores para los proyectos en los que trabajo.
 - 💬 Pregúntame sobre react, tecnologías frontend y 💖 JavaScript 💙
 - 😄 Pronombres: Jochizan, Jochi, Joan
-- ⚡ Dato curioso: llevo 7 meses en el desarrollo web.
+- ⚡ Dato curioso: llevo 8 meses en el desarrollo web.
 
 # Yana
