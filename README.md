@@ -6,7 +6,7 @@
 
 ![photo_fb](https://user-images.githubusercontent.com/69653003/112893349-2bdcf480-90a0-11eb-996e-89f6c7254ab5.jpg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan)](https://github.com/Jochizan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&theme=tokyonight)](https://github.com/Jochizan/github-readme-stats)
 
 ## Puedes encontrarme 🌎:
 - [Twitter](https://twitter.com/@Jochizan)
@@ -17,7 +17,7 @@
 
 ## Aquí hay algunos datos de mi:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true&theme=tokyonight)
 
 - 🔭 Actualmente estoy trabajando en mi portafolio y realizando unas pruebas de desarrollo.
 - 🌱 Actualmente sigo aprendiendo del desarrollo interfaces de usuario con React.js.
