@@ -1,26 +1,19 @@
-## Hola, mi nombre es Joan 😄 🖐️🖐️🖐️
+# Hola, mi nombre es Joan 😄 🖐️🖐️🖐️
 
 ![photo_fb](https://user-images.githubusercontent.com/69653003/112893349-2bdcf480-90a0-11eb-996e-89f6c7254ab5.jpg)
 
-<!--
-```java
-const jn {
-  fullName: 'Joan Jose Roca Hormaza',
-  age: 19,
-  gender: 'male',
-  code: ['Java', 'Python', 'C++'],
-  tools: ['React', 'Redux', 'Node', 'Styled-Components']
-```
--->
+## Skills
 
-### Puedes encontrarme 🌎:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true)
+
+## Puedes encontrarme 🌎:
 - [Twitter](https://twitter.com/@Jochizan)
 - [Instagram](https://www.instagram.com/joan_lanra/)
 - [Linkedin](https://www.linkedin.com/in/joan-jos%C3%A9-roca-hormaza-9a8b861b7/)
 
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼  
 
-### Aquí hay algunos datos de mi:
+## Aquí hay algunos datos de mi:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true)
 
@@ -32,4 +25,4 @@ const jn {
 - 😄 Pronombres: Jochizan, Jochi, Joan
 - ⚡ Dato curioso: llevo 7 meses en el desarrollo web.
 
-## Yana
+# Yana
