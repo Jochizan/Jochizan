@@ -1,8 +1,8 @@
 # Hola, mi nombre es Joan 😄 🖐️🖐️🖐️
 
 - Colaboro con proyectos como Freelance FullStack. Me oriento bien en el trabajo en equipo a través de Jira o Trello, aunque también uso CodeStream de VS Code.
-
 - Mi especialidad es hacer la maquetación de un sitio web, así como la interactividad de estos, teniendo buenas prácticas para una mejor escalabilidad y mantenibilidad.
+- Estoy en el desarrollo de ciertas aplicaciones con lanzamiento futuro. 🤠
 
 ![photo_fb](https://user-images.githubusercontent.com/69653003/112893349-2bdcf480-90a0-11eb-996e-89f6c7254ab5.jpg)
 
@@ -11,13 +11,9 @@
 ## Frontend
 
 ![html](https://user-images.githubusercontent.com/69653003/119570219-6ea40b80-bd75-11eb-8703-4e7996ff4d90.png)
-
 ![css](https://user-images.githubusercontent.com/69653003/119570225-719efc00-bd75-11eb-90b3-97c9e0affea8.png)
-
 ![javascript](https://user-images.githubusercontent.com/69653003/119570226-72379280-bd75-11eb-8c56-b41dae8d385d.png)
-
 ![typescript](https://user-images.githubusercontent.com/69653003/119570234-75328300-bd75-11eb-8c43-63ec8a2ffbfe.png)
-
 ![react](https://user-images.githubusercontent.com/69653003/119570239-76fc4680-bd75-11eb-8baf-90413ae3c8f4.png)
 
 ## Backend
@@ -39,7 +35,7 @@
 
 ## Puedes encontrarme 🌎:
 - [Twitter](https://twitter.com/@Jochizan)
-- [Instagram](https://www.instagram.com/joan_lanra/)
+- [Instagram](https://www.instagram.com/jochizan/)
 - [Linkedin](https://www.linkedin.com/in/joan-jos%C3%A9-roca-hormaza-9a8b861b7/)
 
 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼  
