@@ -10,30 +10,28 @@
 
 ## Frontend
 
-![html](https://user-images.githubusercontent.com/69653003/119569354-42d45600-bd74-11eb-9e55-e80ceab9d1ad.png)
-![css](https://user-images.githubusercontent.com/69653003/119569360-44058300-bd74-11eb-84da-62cf393ae116.png)
-![javascript](https://user-images.githubusercontent.com/69653003/119569346-4071fc00-bd74-11eb-88b9-74148c72ed4a.png)
-![react](https://user-images.githubusercontent.com/69653003/119569396-4f58ae80-bd74-11eb-91c5-2d120cde54af.png)
+![html](https://user-images.githubusercontent.com/69653003/119570219-6ea40b80-bd75-11eb-8703-4e7996ff4d90.png)
+![css](https://user-images.githubusercontent.com/69653003/119570225-719efc00-bd75-11eb-90b3-97c9e0affea8.png)
+![javascript](https://user-images.githubusercontent.com/69653003/119570226-72379280-bd75-11eb-8c56-b41dae8d385d.png)
+![typescript](https://user-images.githubusercontent.com/69653003/119570234-75328300-bd75-11eb-8c43-63ec8a2ffbfe.png)
+![react](https://user-images.githubusercontent.com/69653003/119570239-76fc4680-bd75-11eb-8baf-90413ae3c8f4.png)
 
 ## Backend
 
-![php](https://user-images.githubusercontent.com/69653003/119569452-60092480-bd74-11eb-9fa3-fb0780cfccfd.png)
-![nodejs](https://user-images.githubusercontent.com/69653003/119569461-61d2e800-bd74-11eb-9417-9171c7e8d3aa.png)
-![java](https://user-images.githubusercontent.com/69653003/119569467-64cdd880-bd74-11eb-8ce1-6a999f2d04ca.png)
-![python](https://user-images.githubusercontent.com/69653003/119569472-66979c00-bd74-11eb-9561-eddb6cae844f.png)
-![express](https://user-images.githubusercontent.com/69653003/119569502-6d261380-bd74-11eb-9693-e8423da61410.png)
+![nodejs](https://user-images.githubusercontent.com/69653003/119570255-7c599100-bd75-11eb-89ed-fe05b7c15eae.png)
+![express](https://user-images.githubusercontent.com/69653003/119570283-83809f00-bd75-11eb-85fc-703f48ae74f1.png)
+![php](https://user-images.githubusercontent.com/69653003/119570261-7e235480-bd75-11eb-8335-05aed9beef90.png)
+![java](https://user-images.githubusercontent.com/69653003/119570286-84193580-bd75-11eb-9297-dc3cd31a9084.png)
 
 ## BDs
 
-![mysql](https://user-images.githubusercontent.com/69653003/119569524-757e4e80-bd74-11eb-8ce0-3434eae73c52.png)
-![mongodb (1)](https://user-images.githubusercontent.com/69653003/119569543-7b742f80-bd74-11eb-975d-cc041504d574.png)
+![mysql](https://user-images.githubusercontent.com/69653003/119570309-8c717080-bd75-11eb-9ae0-d69e4cc630b4.png)
+![mongodb](https://user-images.githubusercontent.com/69653003/119570307-8bd8da00-bd75-11eb-9249-609a55234c35.png)
 
 ## Adicionales
 
-![git](https://user-images.githubusercontent.com/69653003/119569565-84fd9780-bd74-11eb-95a9-1b5999098fda.png)
-![github](https://user-images.githubusercontent.com/69653003/119569570-86c75b00-bd74-11eb-9d75-fa908458052f.png)
-![typescript](https://user-images.githubusercontent.com/69653003/119569589-8d55d280-bd74-11eb-9400-e8a175fab6fb.png)
-
+![git](https://user-images.githubusercontent.com/69653003/119570347-9abf8c80-bd75-11eb-8716-19fbe167a2f8.png)
+![github](https://user-images.githubusercontent.com/69653003/119570342-9abf8c80-bd75-11eb-8c1a-80aa6a58d807.png)
 
 ## Puedes encontrarme 🌎:
 - [Twitter](https://twitter.com/@Jochizan)
