@@ -1,8 +1,12 @@
 # Hola, mi nombre es Joan 😄 🖐️🖐️🖐️
 
-![photo_fb](https://user-images.githubusercontent.com/69653003/112893349-2bdcf480-90a0-11eb-996e-89f6c7254ab5.jpg)
+- Hola mi nombre es Joan Roca Hormaza y voy en la carrera de Ing. de Sistemas.
 
-## Skills
+- Colaboro con proyectos como Freelance FullStack. Me oriento bien en el trabajo en equipo a través de Jira o Trello, aunque también uso CodeStream de VS Code.
+
+- Mi especialidad es hacer la maquetación de un sitio web, así como la interactividad de estos, teniendo buenas prácticas para una mejor escalabilidad y mantenibilidad.
+
+![photo_fb](https://user-images.githubusercontent.com/69653003/112893349-2bdcf480-90a0-11eb-996e-89f6c7254ab5.jpg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan)](https://github.com/Jochizan/github-readme-stats)
 
