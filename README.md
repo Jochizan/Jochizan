@@ -11,9 +11,13 @@
 ## Frontend
 
 ![html](https://user-images.githubusercontent.com/69653003/119570219-6ea40b80-bd75-11eb-8703-4e7996ff4d90.png)
+
 ![css](https://user-images.githubusercontent.com/69653003/119570225-719efc00-bd75-11eb-90b3-97c9e0affea8.png)
+
 ![javascript](https://user-images.githubusercontent.com/69653003/119570226-72379280-bd75-11eb-8c56-b41dae8d385d.png)
+
 ![typescript](https://user-images.githubusercontent.com/69653003/119570234-75328300-bd75-11eb-8c43-63ec8a2ffbfe.png)
+
 ![react](https://user-images.githubusercontent.com/69653003/119570239-76fc4680-bd75-11eb-8baf-90413ae3c8f4.png)
 
 ## Backend
