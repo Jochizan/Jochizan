@@ -22,7 +22,7 @@ const jn {
 
 ### Aquí hay algunos datos de mi:
 
-👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true)
 
 - 🔭 Actualmente estoy trabajando en mi portafolio y realizando unas pruebas de desarrollo.
 - 🌱 Actualmente sigo aprendiendo del desarrollo interfaces de usuario con React.js.
@@ -31,7 +31,5 @@ const jn {
 - 💬 Pregúntame sobre react, tecnologías frontend y 💖 JavaScript 💙
 - 😄 Pronombres: Jochizan, Jochi, Joan
 - ⚡ Dato curioso: llevo 7 meses en el desarrollo web.
-
-💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯 💯  
 
 ## Yana
