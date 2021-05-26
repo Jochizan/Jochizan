@@ -18,10 +18,11 @@
 
 ## Backend
 
+![java](https://user-images.githubusercontent.com/69653003/119570286-84193580-bd75-11eb-9297-dc3cd31a9084.png)
+![python](https://user-images.githubusercontent.com/69653003/119657546-acdf1080-bdf1-11eb-963d-5c7a1ba8ac93.png)
+![php](https://user-images.githubusercontent.com/69653003/119570261-7e235480-bd75-11eb-8335-05aed9beef90.png)
 ![nodejs](https://user-images.githubusercontent.com/69653003/119570255-7c599100-bd75-11eb-89ed-fe05b7c15eae.png)
 ![express](https://user-images.githubusercontent.com/69653003/119570283-83809f00-bd75-11eb-85fc-703f48ae74f1.png)
-![php](https://user-images.githubusercontent.com/69653003/119570261-7e235480-bd75-11eb-8335-05aed9beef90.png)
-![java](https://user-images.githubusercontent.com/69653003/119570286-84193580-bd75-11eb-9297-dc3cd31a9084.png)
 
 ## DBs
 
