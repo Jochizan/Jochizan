@@ -23,7 +23,7 @@
 ![php](https://user-images.githubusercontent.com/69653003/119570261-7e235480-bd75-11eb-8335-05aed9beef90.png)
 ![java](https://user-images.githubusercontent.com/69653003/119570286-84193580-bd75-11eb-9297-dc3cd31a9084.png)
 
-## BDs
+## DBs
 
 ![mysql](https://user-images.githubusercontent.com/69653003/119570309-8c717080-bd75-11eb-9ae0-d69e4cc630b4.png)
 ![mongodb](https://user-images.githubusercontent.com/69653003/119570307-8bd8da00-bd75-11eb-9249-609a55234c35.png)
