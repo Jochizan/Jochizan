@@ -38,8 +38,6 @@
 - [Instagram](https://www.instagram.com/jochizan/)
 - [Linkedin](https://www.linkedin.com/in/joan-jos%C3%A9-roca-hormaza-9a8b861b7/)
 
-👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼 👍🏼  
-
 ## Aquí hay algunos datos de mi:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true&theme=tokyonight)
