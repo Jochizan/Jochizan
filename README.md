@@ -38,13 +38,13 @@
 
 ## Puedes encontrarme 🌎:
 
-| Otras plataformas | ![1491579542-yumminkysocialmedia22_83078](https://user-images.githubusercontent.com/69653003/127248332-ed2f3014-fe85-41e7-9002-c5ceef06da2f.png) | ![Instagram_icon-icons com_66804](https://user-images.githubusercontent.com/69653003/127248205-3119de2e-1747-4da9-8d67-7aa2ccd9228a.png) | ![1485482199-linkedin_78667](https://user-images.githubusercontent.com/69653003/127248254-3cc50bb6-015b-4a7d-ba21-547118c969f6.png) |
+| Otras plataformas | ![1491579542-yumminkysocialmedia22_83078 (1)](https://user-images.githubusercontent.com/69653003/127248623-11d41aa6-1c1a-4919-bb3d-39146a420430.png) | ![Instagram_icon-icons com_66804 (1)](https://user-images.githubusercontent.com/69653003/127248655-db935cb6-4911-408b-9e7f-9b9691a96f38.png) | ![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69653003/127248704-fa23bf1a-14a6-4a60-8575-ebbc9816edf7.png) |
 | -------- | -------- | -------- | -------- |
 
 | Links | [Twitter](https://twitter.com/@Jochizan) | [Instagram](https://www.instagram.com/jochizan/) | [Linkedin](https://www.linkedin.com/in/joan-jos%C3%A9-roca-hormaza-9a8b861b7/) |
 | -------- | -------- | -------- | -------- |
 
-## Aquí hay algunos datos de mi:
+## Aquí unos datos sobre mi:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true&theme=tokyonight)
 
