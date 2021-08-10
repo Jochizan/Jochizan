@@ -6,9 +6,15 @@
 
 ![photo_fb](https://user-images.githubusercontent.com/69653003/112893349-2bdcf480-90a0-11eb-996e-89f6c7254ab5.jpg)
 
-| Lenguages | Actividad |
-| ------- | ------- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&theme=tokyonight)](https://github.com/Jochizan/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true&theme=tokyonight) |
+## GitHub Profile Trophy
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Jochizan&theme=darkhub&margin-w=45)
+
+## GitHub Stats
+
+| Most Used Languages | GitHub Stats |
+| ------------------- | ------------ |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=Jochizan&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
 
 ## Tecnologías
 
