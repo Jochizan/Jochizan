@@ -60,7 +60,7 @@ Estoy en el desarrollo de ciertas aplicaciones con lanzamiento futuro. 🤠
 | Otras plataformas | ![1491579542-yumminkysocialmedia22_83078 (1)](https://user-images.githubusercontent.com/69653003/127248623-11d41aa6-1c1a-4919-bb3d-39146a420430.png) | ![Instagram_icon-icons com_66804 (1)](https://user-images.githubusercontent.com/69653003/127248655-db935cb6-4911-408b-9e7f-9b9691a96f38.png) | ![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69653003/127248704-fa23bf1a-14a6-4a60-8575-ebbc9816edf7.png) |
 | -------- | -------- | -------- | -------- |
 
-| Links | [Twitter](https://twitter.com/@Jochizan) | [Instagram](https://www.instagram.com/jochizan/) | [Linkedin](https://www.linkedin.com/in/joan-jos%C3%A9-roca-hormaza-9a8b861b7/) |
+| Links | [Twitter](https://twitter.com/@Jochizan) | [Instagram](https://www.instagram.com/jochizan/) | [Linkedin](https://www.linkedin.com/in/joan-roca-hormaza-9a8b861b7/) |
 | -------- | -------- | -------- | -------- |
 
 ## Aquí unos datos sobre mi:
