@@ -1,13 +1,10 @@
 <h1 align='center'> Hola, mi nombre es Joan 😄 🖐️🖐️🖐️ </h1>
 
 <p align='justify'>
-Colaboro con proyectos como Freelance FullStack. Me oriento bien en el trabajo en equipo a través de Jira o Trello, aunque también uso CodeStream de VS Code. 
+Colaboro con proyectos como Freelance FullStack. Me oriento bien en el trabajo en equipo a través de Trello, Teams y Jira, y también uso CodeStream de VS Code para el flujo moderno de desarrollo. 
 </p>
 <p align='justify'>
-Mi especialidad es hacer la maquetación de un sitio web, así como la interactividad de estos, teniendo buenas prácticas para una mejor escalabilidad y mantenibilidad.
-</p>
-<p align='justify'>
-Estoy en el desarrollo de ciertas aplicaciones con lanzamiento futuro. 🤠
+Mi especialidad es hacer la maquetación de un sitio web, así como la interactividad de estos, teniendo buenas prácticas para una mejor legibilidad, escalabilidad y mantenibilidad de nuestras aplicaciones.
 </p>
 
 <p align='center'>
@@ -71,6 +68,6 @@ Estoy en el desarrollo de ciertas aplicaciones con lanzamiento futuro. 🤠
 - 🤔 Estoy buscando ayuda de colaboradores para los proyectos en los que trabajo.
 - 💬 Pregúntame sobre react, tecnologías frontend y 💖 JavaScript 💙.
 - 😄 Pronombres: Jochizan, Jochi, Joan.
-- ⚡ Dato curioso: llevo 9 meses en el desarrollo web.
+- ⚡ Dato curioso: llevo 10 meses en el desarrollo web.
 
 ### Yana
