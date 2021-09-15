@@ -51,12 +51,12 @@ Mi especialidad es hacer la maquetación de un sitio web, así como la interacti
 
 ## Puedes encontrarme 🌎:
 
-| Otras plataformas | [![1491579542-yumminkysocialmedia22_83078 (1)](https://user-images.githubusercontent.com/69653003/127248623-11d41aa6-1c1a-4919-bb3d-39146a420430.png)](https://twitter.com/@Jochizan) | [![Instagram_icon-icons com_66804 (1)](https://user-images.githubusercontent.com/69653003/127248655-db935cb6-4911-408b-9e7f-9b9691a96f38.png)](https://www.instagram.com/jochizan) | [![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69653003/127248704-fa23bf1a-14a6-4a60-8575-ebbc9816edf7.png)](https://www.linkedin.com/in/joan-roca-hormaza-9a8b861b7) |
+| Otras plataformas | [![1491579542-yumminkysocialmedia22_83078 (1)](https://user-images.githubusercontent.com/69653003/127248623-11d41aa6-1c1a-4919-bb3d-39146a420430.png)](https://twitter.com/@Jochizan) | [![Instagram_icon-icons com_66804 (1)](https://user-images.githubusercontent.com/69653003/127248655-db935cb6-4911-408b-9e7f-9b9691a96f38.png)](https://www.instagram.com/jochizan) | [![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69653003/127248704-fa23bf1a-14a6-4a60-8575-ebbc9816edf7.png)](https://www.linkedin.com/in/jochizan) |
 | -------- | -------- | -------- | -------- |
 
 ## Aquí unos datos sobre mi:
 
-- 🔭 Actualmente estoy trabajando en mi portafolio y realizando unas pruebas de desarrollo.
+- 🔭 Actualmente estoy trabajando en chat con nextjs y socket.io y retocando mi portafolio.
 - 🌱 Actualmente sigo aprendiendo del desarrollo interfaces de usuario con Reactjs.
 - 👯 Busco colaborar con personas que tengan cierta experencia en el desarrollo web.
 - 🤔 Estoy buscando ayuda de colaboradores para los proyectos en los que trabajo.
