@@ -33,8 +33,8 @@ Mi especialidad es hacer la maquetación de un sitio web, así como la interacti
 
 ### Frameworks
 
-| Frontend | ![react](https://user-images.githubusercontent.com/69653003/119570239-76fc4680-bd75-11eb-8baf-90413ae3c8f4.png) | ![icons8-vue-js-144](https://user-images.githubusercontent.com/69653003/127247139-70b8894c-7469-4d73-94e8-b01f753ec28d.png) |
-| -------- | -------- | -------- |
+| Frontend | ![react](https://user-images.githubusercontent.com/69653003/119570239-76fc4680-bd75-11eb-8baf-90413ae3c8f4.png) | ![vue](https://user-images.githubusercontent.com/69653003/127247139-70b8894c-7469-4d73-94e8-b01f753ec28d.png) | ![redux](https://user-images.githubusercontent.com/69653003/133941438-e36c1de6-1f69-4ba5-9382-885c94f417fa.png) |
+| -------- | -------- | -------- | -------- |
 
 | Backend | ![express](https://user-images.githubusercontent.com/69653003/119570283-83809f00-bd75-11eb-85fc-703f48ae74f1.png) | ![icons8-flask-150](https://user-images.githubusercontent.com/69653003/127247175-50742cc5-f98c-4048-9044-dd75acfbe679.png) |
 | -------- | -------- | -------- |
@@ -56,12 +56,12 @@ Mi especialidad es hacer la maquetación de un sitio web, así como la interacti
 
 ## Aquí unos datos sobre mi:
 
-- 🔭 Actualmente estoy trabajando en chat con nextjs y socket.io y retocando mi portafolio.
+- 🔭 Actualmente estoy trabajando en chat con nextjs y socket.io y creando mi blog.
 - 🌱 Actualmente sigo aprendiendo del desarrollo interfaces de usuario con Reactjs.
-- 👯 Busco colaborar con personas que tengan cierta experencia en el desarrollo web.
+- 👯 Busco colaborar con todo tipo de personas que les interese el desarrollo web.
 - 🤔 Estoy buscando ayuda de colaboradores para los proyectos en los que trabajo.
 - 💬 Pregúntame sobre react, tecnologías frontend y 💖 JavaScript 💙.
-- 😄 Pronombres: Jochizan, Jochi, Joan.
-- ⚡ Dato curioso: llevo 10 meses en el desarrollo web.
+- 😄 Pronombres: Jochizan, Jochi entre otros.
+- ⚡ Dato curioso: Llevo 1 año en el desarrollo web y soy el creador de la organización "Tiquor".
 
 ### Yana
