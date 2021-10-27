@@ -1,7 +1,9 @@
-<h1 align='center'> Hola, mi nombre es Joan 😄 🖐️🖐️🖐️ </h1>
+<p align='center'>
+  <h1 align='center'> Hola, mi nombre es Joan 😄 🖐️🖐️🖐️ <img src="https://komarev.com/ghpvc/?username=Jochizan&label=Profile%20views&color=129e00&style=plastic" alt="Jochizan"/></h1>
+</p>
 
 <p align='justify'>
-Colaboro con proyectos como Freelance FullStack. Me oriento bien en el trabajo en equipo a través de Trello, Teams y Jira, y también uso CodeStream de VS Code para el flujo moderno de desarrollo. 
+Colaboro con proyectos como Freelance FullStack. Me oriento bien en el trabajo en equipo a través de Trello, Teams y Jira, y también uso CodeStream de VS Code para el flujo moderno de desarrollo.
 </p>
 <p align='justify'>
 Mi especialidad es hacer la maquetación de un sitio web, así como la interactividad de estos, teniendo buenas prácticas para una mejor legibilidad, escalabilidad y mantenibilidad de nuestras aplicaciones.
@@ -17,9 +19,14 @@ Mi especialidad es hacer la maquetación de un sitio web, así como la interacti
 
 ## GitHub Stats
 
-| Most Used Languages | GitHub Stats |
-| ------------------- | ------------ |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=Jochizan&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
+<div align='center'>  
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&layout=compact&langs_count=7&theme=dark' />
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true&theme=dark&include_all_commits=true&count_private=true' />
+</div>
+
+<p align='center'>
+  <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=Jochizan&theme=xcode"/>
+</p>
 
 ## Tecnologías
 
