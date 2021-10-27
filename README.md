@@ -20,7 +20,7 @@ Mi especialidad es hacer la maquetación de un sitio web, así como la interacti
 ## GitHub Stats
 
 <div align='center'>  
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&layout=compact&langs_count=7&theme=dark' />
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&layout=compact&langs_count=8&theme=dark' />
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true&theme=dark&include_all_commits=true&count_private=true' />
 </div>
 
