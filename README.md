@@ -1,5 +1,5 @@
 <p align='center'>
-  <h1 align='center'> Hola, mi nombre es Joan 😄 🖐️🖐️🖐️ 
+  <h1 align='center'> Hola, mi nombre es Jozan 😄 🖐️🖐️🖐️   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&layout=compact&langs_count=8&theme=dark' />
 </h1>
 </p>
 
