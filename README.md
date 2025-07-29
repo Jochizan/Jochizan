@@ -82,4 +82,4 @@ Hoy me desempeño como <strong>Analista / Programador de TI</strong>, combinando
 - 💬 Me encanta hablar sobre interfaces, backend sólido y cómo escalar ideas.
 - 🎯 Meta 2025: publicar 2 proyectos en producción con arquitectura escalable y contribuir a open source.
 
-## Janne 👋
+## 👋 Janne 
