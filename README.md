@@ -11,7 +11,7 @@ Hoy me desempeño como **Analista / Programador de TI**, combinando mi amor por 
 </p>
 
 <p align='center'>
- <img width="768" height="1024" alt="Boris v2 png" src="https://github.com/user-attachments/assets/1de6e864-3975-4a22-90fa-f4dcefee5c48" />
+ <img width="520" height="768" alt="Boris v2 png" src="https://github.com/user-attachments/assets/1de6e864-3975-4a22-90fa-f4dcefee5c48" />
 </p>
 
 ## GitHub Profile Trophy
