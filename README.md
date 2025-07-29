@@ -54,15 +54,15 @@ Hoy me desempeño como <strong>Analista / Programador de TI</strong>, combinando
 
 ---
 
-## 📊 Estadísticas
+## 📈 GitHub Métricas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jochizan&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <br /><br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&layout=compact&langs_count=8&theme=dark" />
-</div>
-
-<div align="center">
-  <img height="250em" src="https://github-profile-trophy.vercel.app/?username=Jochizan&theme=darkhub&margin-w=30&row=1" />
+  <br /><br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jochizan&theme=darkhub&margin-w=30&row=1" />
 </div>
 
 ---
