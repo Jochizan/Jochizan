@@ -1,6 +1,5 @@
 <p align='center'>
-  <h1 align='center'> Hola, mi nombre es Jozan 😄 🖐️🖐️🖐️   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&layout=compact&langs_count=8&theme=dark' />
-</h1>
+  <h1 align='center'> Hola, mi nombre es Jozan 😄 🖐️🖐️🖐️ <img src="https://komarev.com/ghpvc/?username=Jochizan&label=Profile%20views&color=129e00&style=plastic" alt="Jochizan"/></h1>
 </p>
 
 <p align='justify'>
