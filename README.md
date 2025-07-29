@@ -1,5 +1,6 @@
 <p align='center'>
-  <h1 align='center'> Hola, mi nombre es Joan 😄 🖐️🖐️🖐️ <img src="https://komarev.com/ghpvc/?username=Jochizan&label=Profile%20views&color=129e00&style=plastic" alt="Jochizan"/></h1>
+  <h1 align='center'> Hola, mi nombre es Joan 😄 🖐️🖐️🖐️ <img width="1024" height="1536" alt="Boris v2 png" src="https://github.com/user-attachments/assets/1de6e864-3975-4a22-90fa-f4dcefee5c48" />
+</h1>
 </p>
 
 <p align='justify'>
