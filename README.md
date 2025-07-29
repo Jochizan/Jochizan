@@ -1,5 +1,5 @@
 <p align='center'>
-  <h1 align='center'> Hola, mi nombre es Joan 😄 🖐️🖐️🖐️ <img width="1024" height="1536" alt="Boris v2 png" src="https://github.com/user-attachments/assets/1de6e864-3975-4a22-90fa-f4dcefee5c48" />
+  <h1 align='center'> Hola, mi nombre es Joan 😄 🖐️🖐️🖐️ 
 </h1>
 </p>
 
@@ -11,7 +11,7 @@ Mi especialidad es hacer la maquetación de un sitio web, así como la interacti
 </p>
 
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/69653003/112893349-2bdcf480-90a0-11eb-996e-89f6c7254ab5.jpg' alt='Jochizan'/>
+ <img width="768" height="1024" alt="Boris v2 png" src="https://github.com/user-attachments/assets/1de6e864-3975-4a22-90fa-f4dcefee5c48" />
 </p>
 
 ## GitHub Profile Trophy
