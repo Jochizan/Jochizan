@@ -3,10 +3,11 @@
 </p>
 
 <p align='justify'>
-Colaboro con proyectos como Freelance FullStack. Me oriento bien en el trabajo en equipo a través de Trello, Teams y Jira, y también uso CodeStream de VS Code para el flujo moderno de desarrollo.
+Desde pequeño, la tecnología y el arte han marcado mi vida. Descubrí la magia del ordenador familiar explorandolo con mi padre y, con el tiempo, experimentando en mis primeros video juegos como AOE2, Tarzan y similares del 2000. El desarrollo y la música han sido siempre mi refugio creativo, acompañándome en cada etapa de aprendizaje y reinvención.
 </p>
+
 <p align='justify'>
-Mi especialidad es hacer la maquetación de un sitio web, así como la interactividad de estos, teniendo buenas prácticas para una mejor legibilidad, escalabilidad y mantenibilidad de nuestras aplicaciones.
+Hoy me desempeño como **Analista / Programador de TI**, combinando mi amor por el diseño digital con la lógica del desarrollo frontend y backend. He participado en el desarrollo de plataformas, sistemas web y experiencias visuales tanto para clientes como en proyectos personales. Disfruto especialmente convertir ideas abstractas en soluciones digitales funcionales y atractivas, apostando siempre por la calidad y el detalle.
 </p>
 
 <p align='center'>
