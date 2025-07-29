@@ -7,7 +7,7 @@ Desde pequeño, la tecnología y el arte han marcado mi vida. Descubrí la magia
 </p>
 
 <p align='justify'>
-Hoy me desempeño como **Analista / Programador de TI**, combinando mi amor por el diseño digital con la lógica del desarrollo frontend y backend. He participado en el desarrollo de plataformas, sistemas web y experiencias visuales tanto para clientes como en proyectos personales. Disfruto especialmente convertir ideas abstractas en soluciones digitales funcionales y atractivas, apostando siempre por la calidad y el detalle.
+Hoy me desempeño como <strong>Analista / Programador de TI</strong>, combinando mi amor por el diseño digital con la lógica del desarrollo frontend y backend. He participado en el desarrollo de plataformas, sistemas web y experiencias visuales tanto para clientes como en proyectos personales. Disfruto especialmente convertir ideas abstractas en soluciones digitales funcionales y atractivas, apostando siempre por la calidad y el detalle.
 </p>
 
 <p align='center'>
