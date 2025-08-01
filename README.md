@@ -3,7 +3,7 @@
 </p>
 
 <p align='justify'>
-Desde pequeño, la tecnología y el arte han marcado mi vida. Descubrí la magia del ordenador familiar explorandolo con mi padre y, con el tiempo, experimentando en mis primeros video juegos como AOE2, Tarzan y similares del 2000. El desarrollo y la música han sido siempre mi refugio creativo, acompañándome en cada etapa de aprendizaje y reinvención.
+Desde pequeño, la tecnología y el arte han marcado mi vida. Descubrí la magia del ordenador explorándolo con mi padre, ya que tenía uno en casa, con el tiempo, experimentando en mis primeros videojuegos como AOE2, Warcraft y similares juegos del 2000. La música ha sido siempre mi refugio creativo, acompañándome en cada etapa de aprendizaje y reinvención. Sumando ahora la programación, que me ha convertido en un desarrollador de software dedicado, especializado principalmente en desarrollo web.
 </p>
 
 <p align='justify'>
