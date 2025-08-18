@@ -76,8 +76,6 @@ Hoy me desempeño como <strong>Analista / Programador de TI</strong>, combinando
 ## 🌍 Encuéntrame
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jochizan)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/remnyachizot2015)
-[![DockerHub](https://img.shields.io/badge/-DockerHub-black?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/jochizan)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jochizan)
 
 ---
