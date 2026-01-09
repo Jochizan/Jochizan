@@ -75,9 +75,9 @@ Hoy me desempeño como <strong>Desarrollador de Software</strong>, combinando mi
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jochizan&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-  <br />
+  <!--<br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jochizan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&layout=compact&langs_count=8&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jochizan&layout=compact&langs_count=8&theme=dark" /> -->
 </div>
 
 ---
