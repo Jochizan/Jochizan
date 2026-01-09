@@ -46,37 +46,19 @@ Hoy me desempeño como <strong>Desarrollador de Software</strong>, combinando mi
 
 🎓 **Cursos Actuales**:  
 
-- CS50x (Harvard)  
-
 - Meta Frontend Developer (Coursera)
 
+- Microsoft FullStack Developer (Coursera)
 
+- CS50x (Harvard)  
 
 📁 Repos destacados:
 
-- [🔗 Portafolio en Astro + Markdown](https://jozan.vercel.app)
+- [🔗 Portafolio en Astro + Markdown](https://joanrh.dev)
 
 - [🔗 Codeforces](https://github.com/Jochizan/codeforces)
 
-
-
 ---
-
-
-
-## 🛠️ Tecnologías que uso
-
-
-### 💻 Lenguajes de Programación
-
-| Tecnología | Badge |
-| :--- | :--- |
-| **JavaScript / TypeScript** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white) |
-| **Backend Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) |
-| **Low Level / Systems** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| **Web Fundamentals** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-
-
 
 ## 🛠️ Tecnologías que uso
 
